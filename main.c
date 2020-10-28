@@ -12,7 +12,7 @@ int main(){
             arr[i] = 3;
         if(i == 5)
             arr[i] = 2;
-}
+    }
 
     int i = 0;
     while(i < 10){
