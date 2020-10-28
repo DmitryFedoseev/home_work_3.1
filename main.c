@@ -1,6 +1,10 @@
 #include <stdio.h>
 
 int main(){
-    int arr[9];
+    int arr[10];
+
+    for(int i = 0; i<10; i++)
+        arr[i] = 1;
+
     return 0;
 }
